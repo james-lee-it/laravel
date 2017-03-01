@@ -14,3 +14,7 @@ And Voila! You can open the directory (incl. folders and files in it) using $ `s
 Whereas, `subl` would only open up sublime text with an untitled sublime tab.
 
 For more info, see: http://stackoverflow.com/questions/40645118/how-to-open-a-file-in-sublime3-from-the-command-line-on-mac-osx
+
+## Hook up mySQL with Laravel
+Under the root directory of the project, type $ `php artisan migrate`.
+On Sequel Pro, put username as `root` (depending on the setup).
