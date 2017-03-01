@@ -12,3 +12,5 @@ if $ `subl` did not work, uninstall sublime first.
 Then, install sublime via homebrew using $ `brew cask install sublime-text`
 And Voila! You can open the directory (incl. folders and files in it) using $ `subl .`
 Whereas, `subl` would only open up sublime text with an untitled sublime tab.
+
+For more info, see: http://stackoverflow.com/questions/40645118/how-to-open-a-file-in-sublime3-from-the-command-line-on-mac-osx
